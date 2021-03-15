@@ -7,9 +7,17 @@
 
  <br/>
  
+ ## Projects
+ 
+- <a href="http://first-template.anita-ihuman.vercel.app/"> Community Landing Page Template </a> 
+-  <a href="http://second-template.anita-ihuman.vercel.app/"> Woo Landing Template </a> 
+-   <a href="http://third-template-git-main.anita-ihuman.vercel.app/"> MNTN Template </a> 🏓
+
+
+
 ## Find me around the web 🌎: <a href="https://github.com/Anita-ihuman"><img align="left" width="150" height="150" src="https://ci3.googleusercontent.com/proxy/J9598pDwBaYqd4Aq9RPO_WxaeHybTUNFXMGlJ4-ob7UPjvktsbAldy692aW0vYFhZHNxc4fiExykgA4rygKR4u3c-59QfkpKzuDwnCST6m9rMX-lKoorcuqlPSWd-kTN6kqS1lp_=s0-d-e1-ft#https://octocat-generator-assets.githubusercontent.com/my-octocat-1615809367812.png"></a>
 - Learning in public on <a href="https://movi.hashnode.dev/?guid=80bb995c-8841-4cf2-9171-c2605ec9215b&deviceId=779b1e9d-de57-4003-a434-f15e3f17c629">Hashnode</a> 📹 ✍🏾
-- Follow up on my public speaking here <a href="https://speakerdeck.com/anita_ihuman"> Speaker deck</a> 🏓
+- Follow up on my public speaking on <a href="https://slides.com/anitaihuman"> Speaker Deck</a> 🏓
 - 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 ![](https://komarev.com/ghpvc/?username=Anita-ihuman)
