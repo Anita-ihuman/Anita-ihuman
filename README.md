@@ -2,16 +2,17 @@
 
 - I am a Software developer based in Nigeria. I am a web developer with experience in React, Next and other front end tools that will get your app running.
 - I enjoy sharing knowledge through public speaking and technical writting.
-- Here is the a link to my [Blog](https://movi.hashnode.dev/?guid=80bb995c-8841-4cf2-9171-c2605ec9215b&deviceId=779b1e9d-de57-4003-a434-f15e3f17c629) and a link to my [speaker deck](https://speakerdeck.com/anita_ihuman)
 - I am sparked about contributing to open source, I like to call myself an Advocate.
 - I am actively contributing to [Layer5](https://github.com/layer5io), [Chaoss](https://github.com/chaoss) and [Gnome](https://www.gnome.org/)
 
  <br/>
  
+## Find me around the web 🌎: <a href="https://github.com/Anita-ihuman"><img align="left" width="150" height="150" src="https://ci3.googleusercontent.com/proxy/J9598pDwBaYqd4Aq9RPO_WxaeHybTUNFXMGlJ4-ob7UPjvktsbAldy692aW0vYFhZHNxc4fiExykgA4rygKR4u3c-59QfkpKzuDwnCST6m9rMX-lKoorcuqlPSWd-kTN6kqS1lp_=s0-d-e1-ft#https://octocat-generator-assets.githubusercontent.com/my-octocat-1615809367812.png"></a>
+- Learning in public on <a href="https://movi.hashnode.dev/?guid=80bb995c-8841-4cf2-9171-c2605ec9215b&deviceId=779b1e9d-de57-4003-a434-f15e3f17c629">Hashnode</a> 📹 ✍🏾
+- Follow up on my public speaking here <a href="https://speakerdeck.com/anita_ihuman"> Speaker deck</a> 🏓
+- 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
 ![](https://komarev.com/ghpvc/?username=Anita-ihuman)
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/Anita_ihuman?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FalAnita_ihuman&screen_name=Anita_ihuman)
 
 <p>
