@@ -32,8 +32,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="alabobriggs_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Anita_ihuman)
-[<img align="left" alt="alabobriggs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anita-ihuman/)
+[<img align="left" alt="Anita_ihuman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Anita_ihuman)
+[<img align="left" alt="Anita-ihuman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anita-ihuman/)
 
 
 <br/>
