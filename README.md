@@ -4,7 +4,7 @@
 - I enjoy sharing knowledge through public speaking and technical writting.
 - I am sparked about contributing to open source, I like to call myself an Advocate.
 - I am actively contributing to [Layer5](https://github.com/layer5io), [Chaoss](https://github.com/chaoss) and [Gnome](https://www.gnome.org/)
-
+- I am also a cat lover🐈
  <br/>
  
  ## Projects
