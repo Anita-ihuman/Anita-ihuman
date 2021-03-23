@@ -1,7 +1,7 @@
 ## Hi there, I am Anita Ihuman 👋🏽
 
 - I am a Software developer based in Nigeria. I am a web developer with experience in React, Next and other front end tools that will get your app running.
-- I enjoy sharing knowledge through public speaking and technical writting.
+- I enjoy sharing knowledge through public speaking and technical writing.
 - I am sparked about contributing to open source, I like to call myself an Advocate.
 - I am actively contributing to [Layer5](https://github.com/layer5io), [Chaoss](https://github.com/chaoss) and [Gnome](https://www.gnome.org/)
 - I am also a cat lover🐈
