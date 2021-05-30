@@ -32,7 +32,8 @@
  
 - Follow up on my Public Speaking on <a href="https://slides.com/anitaihuman"> Speaker Deck</a>
 
-
+- **Connect with me via:** <a href="https://twitter.com/Anita_ihuman" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" /></a><a href="https://github.com/Anita-ihuman " target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?&style=flat-square&logo=github&logoColor=white" /><a href="https://www.linkedin.com/in/anita-ihuman/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 
 ## My GitHub Stats &#x1f4c8;
 <p>
@@ -44,20 +45,7 @@
 
 </p>
 
-
-### Connect with me:
-
- <a href="https://twitter.com/Anita_ihuman" target="_blank">
-<img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" /></a>
-<a href="https://github.com/Anita-ihuman " target="_blank">
-<img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?&style=flat-square&logo=github&logoColor=white" />
-<a href="https://www.linkedin.com/in/anita-ihuman/" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-
-
-<br/>
-<br/>
+---
 
 ### Languages and Tools:
 <img align="left" alt="typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
