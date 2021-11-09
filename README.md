@@ -3,6 +3,7 @@
 ## Hi there, I am Anita Ihuman  
  <a href="https://github.com/Anita-ihuman"><img align="left" width="150" height="150" src="https://ci3.googleusercontent.com/proxy/J9598pDwBaYqd4Aq9RPO_WxaeHybTUNFXMGlJ4-ob7UPjvktsbAldy692aW0vYFhZHNxc4fiExykgA4rygKR4u3c-59QfkpKzuDwnCST6m9rMX-lKoorcuqlPSWd-kTN6kqS1lp_=s0-d-e1-ft#https://octocat-generator-assets.githubusercontent.com/my-octocat-1615809367812.png"></a>
 
+- I a developer advocate at [Kyverno](https://github.com/kyverno/kyverno).
 - I am a web developer with experience in React, Next and Professional experience with the technologies listed in the **toolbox** below.
 - I enjoy sharing information by creating tech content and public speaking, mostly about Web Development and Open Source.
 - I am sparked about contributing to Open Source, I like to call myself an Advocate.
@@ -20,9 +21,9 @@
 ## Latest Blog Articles 📘
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Repositories on GitHub you should Explore as a Beginner](https://movi.hashnode.dev/open-source-repositories-on-github-you-should-explore-as-a-beginner-ckopywbgo01o09vs1cl652761)
+- [The Beginners Intro to Containerized Platforms: Docker](https://movi.hashnode.dev/the-beginners-intro-to-containerized-platforms-docker-ckt9rvjdr0boa98s170rm7i6i)
 - [#8 Styling Methods in React](https://movi.hashnode.dev/8-styling-methods-in-react-cko2v2gsc01juels1eatgg7mw)
-- [What is a Cookie](https://movi.hashnode.dev/what-is-a-cookie-cknu85twl0aeaass13ozycvny)
+- [Introducing Container Orchestration Using Kubernetes](https://movi.hashnode.dev/introducing-container-orchestration-using-kubernetes-cktemz89j02llyds1fmcm8xz2)
 - [Identity Branding for Programmers](https://movi.hashnode.dev/identity-branding-for-programmers-cknainnr001z1i3s13aqdalln)
 - [A Guide to React Router: Demo](https://movi.hashnode.dev/a-guide-to-react-router-demo-ckk13407306obqps1hso0ckb1)
 <!-- BLOG-POST-LIST:END -->
