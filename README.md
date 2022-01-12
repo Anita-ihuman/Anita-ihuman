@@ -6,8 +6,8 @@
 - I a developer advocate at [Kyverno](https://github.com/kyverno/kyverno).
 - I am a web developer with experience in React, Next and Professional experience with the technologies listed in the **toolbox** below.
 - I enjoy sharing information by creating tech content and public speaking, mostly about Web Development and Open Source.
-- I am sparked about contributing to Open Source, I like to call myself an Advocate.
-- I am actively contributing to [Layer5](https://github.com/layer5io), [Chaoss](https://github.com/chaoss) and [Gnome](https://www.gnome.org/) projects.
+- I am sparked about contributing to Open Source. 
+- I am actively contributing to [Layer5](https://github.com/layer5io) & [Chaoss](https://github.com/chaoss) projects.
 - I am also a cat lover🐈
  ---
  
