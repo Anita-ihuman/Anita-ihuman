@@ -3,7 +3,7 @@
 ## Hi there, I am Anita Ihuman  
  <a href="https://github.com/Anita-ihuman"><img align="left" width="150" height="150" src="https://ci3.googleusercontent.com/proxy/J9598pDwBaYqd4Aq9RPO_WxaeHybTUNFXMGlJ4-ob7UPjvktsbAldy692aW0vYFhZHNxc4fiExykgA4rygKR4u3c-59QfkpKzuDwnCST6m9rMX-lKoorcuqlPSWd-kTN6kqS1lp_=s0-d-e1-ft#https://octocat-generator-assets.githubusercontent.com/my-octocat-1615809367812.png"></a>
 
-- I a developer advocate at [Kyverno](https://github.com/kyverno/kyverno).
+- I a Technical writer at [API7.ai](https://api7.ai/).
 - I am a web developer with experience in React, Next and Professional experience with the technologies listed in the **toolbox** below.
 - I enjoy sharing information by creating tech content and public speaking, mostly about Web Development and Open Source.
 - I am sparked about contributing to Open Source. 
