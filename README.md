@@ -12,7 +12,7 @@
 I am Anita Ihuman, Developer Advocate and technical writer.  I am an Open source, cloud native and DevOps Evangelist.  
  <a href="https://github.com/Anita-ihuman"><img align="left" width="150" height="150" src="https://ci3.googleusercontent.com/proxy/J9598pDwBaYqd4Aq9RPO_WxaeHybTUNFXMGlJ4-ob7UPjvktsbAldy692aW0vYFhZHNxc4fiExykgA4rygKR4u3c-59QfkpKzuDwnCST6m9rMX-lKoorcuqlPSWd-kTN6kqS1lp_=s0-d-e1-ft#https://octocat-generator-assets.githubusercontent.com/my-octocat-1615809367812.png"></a>
 
-- 🎤 I enjoy sharing information through mentorships, techical content documentation and speaking at public events.
+- 🎤 I enjoy sharing information through mentorships, techical content documentation, Articles and speaking at public events.
 - 😊 I organize workshops, Conferences, webinars, and other events to benefit the community.
 - 📌 I have interest in DevOps, DEI, Clound computing, Documentation, community and Open Source topics.
 - 👩🏽‍💻 I previously experienced some challenging positions i.e. Developer advocate @[Nirmata](https://github.com/nirmata), Technical writer @[API7.ai](https://github.com/api7) researching @[CHAOSS](https://github.com/chaoss)
@@ -41,9 +41,6 @@ I am Anita Ihuman, Developer Advocate and technical writer.  I am an Open source
 ---
 
  
-<h2>Latest Tweets 🧵</h2>
-
-<p align='center'><a href="https://twitter.com/Anita_ihuman"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=Anita_ihuman&layout=wide" width="4 50"  alt="github-readme-twitter"></a></p>
 
 
 ## My GitHub Stats &#x1f4c8;
@@ -52,7 +49,7 @@ I am Anita Ihuman, Developer Advocate and technical writer.  I am an Open source
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anita-ihuman&theme=tokyonight" />
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anita-ihuman&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anita-ihuman&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<a href="https://twitter.com/Anita_ihuman"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=Anita_ihuman&layout=wide"  width="580"  alt="github-readme-twitter"></a>
 
 </p>
 
