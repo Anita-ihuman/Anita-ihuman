@@ -45,14 +45,11 @@ I am Anita Ihuman, Developer Advocate and technical writer.  I am an Open source
 
  
 
-
-## My GitHub Stats &#x1f4c8;
+## My GitHub Stats
 <p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anita-ihuman&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anita-ihuman&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anita-ihuman&theme=tokyonight" />
- 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anita-ihuman&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<a href="https://twitter.com/Anita_ihuman"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=Anita_ihuman&layout=wide"  width="500"  alt="github-readme-twitter"></a>
+ <a href="https://twitter.com/Anita_ihuman"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=Anita_ihuman&layout=wide"  width="500"  alt="github-readme-twitter"></a>
 
 </p>
 
