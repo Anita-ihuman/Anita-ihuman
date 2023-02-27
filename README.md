@@ -1,11 +1,14 @@
 # Anita Ihuman
-[![Twitter](https://img.shields.io/twitter/follow/Anita_ihuman?style=social)](https://twitter.com/Anita_ihuman)
-<a href="https://github.com/Anita-ihuman " target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?&style=flat-square&logo=github&logoColor=white" />
- <a href="https://www.linkedin.com/in/anita-ihuman/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
+[![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Anita_ihuman)
+<a href="https://github.com/Anita-ihuman " target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+ <a href="https://www.linkedin.com/in/anita-ihuman/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> 
-<a href="https://movi.hashnode.dev"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square"/></a>
-[![Medium Badge](https://img.shields.io/badge/--03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@Anita-ihuman)](https://medium.com/@Anita-ihuman) 
-[![Gmail Badge](https://img.shields.io/badge/--c14438?style=social&logo=Gmail&logoColor=red&link=mailto:charlesanita403@gmail.com)](mailto:charlesanita403@gmail.com)
+<a href="https://movi.hashnode.dev"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Anita-ihuman) 
+  <a href="https://www.youtube.com/@anitaihuman403">
+   <img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>&nbsp;&nbsp;
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlesanita403@gmail.com)
 
 
 ## Hi there 👋🏽 
