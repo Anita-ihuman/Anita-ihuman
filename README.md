@@ -7,7 +7,7 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Anita-ihuman) 
   <a href="https://www.youtube.com/@anitaihuman403">
    <img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>&nbsp;&nbsp;
+</a>
  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlesanita403@gmail.com)
 
 
