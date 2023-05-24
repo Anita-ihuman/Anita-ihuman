@@ -19,7 +19,7 @@ I am Anita Ihuman, Developer Advocate and technical writer.  I am an Open source
 - 😊 I organize workshops, Conferences, webinars, and other events to benefit the community.
 - 📌 I have interest in DevOps, DEI, Clound computing, Documentation, community and Open Source topics.
 - 👩🏽‍💻 I previously experienced some challenging positions i.e. Developer advocate @[Nirmata](https://github.com/nirmata), Technical writer @[API7.ai](https://github.com/api7) Researching @[CHAOSS](https://github.com/chaoss)
-- 🌱 I actively contributing to some awesome Open-Source Projects and organisations like [Layer5](https://github.com/layer5io), [TheGoodDocProject](https://gitlab.com/tgdp), [CHAOSS](https://github.com/chaoss) projects, [The Good Docs project](https://thegooddocsproject.dev/) and more.
+- 🌱 I actively contributing to some awesome Open-Source Projects and organisations like [Layer5](https://github.com/layer5io), [TheGoodDocProject](https://gitlab.com/tgdp), [CHAOSS](https://github.com/chaoss) projects, and more.
 - I love cats🐈
 
 ---
