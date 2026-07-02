@@ -36,7 +36,7 @@ My interests include:
 - Research Contributor/Community Lead — [CHAOSS](https://github.com/chaoss)
 - Community Lead - [Layer5](https://github.com/layer5io)
 - Program Management - [OpenKids Africa](https://github.com/openkids-africa)
-- DISC Committee Member - (NumFocus)[https://github.com/numfocus/DISC-committee]
+- DISC Committee Member - [NumFocus](https://github.com/numfocus/DISC-committee)
 
 ---
 
