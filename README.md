@@ -5,52 +5,38 @@
 </a> 
 <a href="https://movi.hashnode.dev"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Anita-ihuman) 
-  <a href="https://www.youtube.com/@anitaihuman403">
+  <a href="https://www.youtube.com/@TechwithAnita">
    <img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 
-## Hi there 👋🏽 
-I am Anita Ihuman, Developer Advocate and technical writer.  I am an Open source, cloud native and DevOps Evangelist.  
- <a href="https://github.com/Anita-ihuman"><img align="left" width="150" height="150" src="https://ci3.googleusercontent.com/proxy/J9598pDwBaYqd4Aq9RPO_WxaeHybTUNFXMGlJ4-ob7UPjvktsbAldy692aW0vYFhZHNxc4fiExykgA4rygKR4u3c-59QfkpKzuDwnCST6m9rMX-lKoorcuqlPSWd-kTN6kqS1lp_=s0-d-e1-ft#https://octocat-generator-assets.githubusercontent.com/my-octocat-1615809367812.png"></a>
+## Hi, I'm Anita 👋🏽
+Senior Developer Advocate with 5+ years of experience helping engineering teams adopt cloud-native technologies through technical education, open source, developer experience, and community leadership.
+I build developer tools, write technical guides, create hands-on demos, and speak at conferences to help developers understand complex technologies.
 
-- 🎤 I enjoy sharing information through mentorships, techical content documentation, Articles and speaking at public events.
-- 😊 I organize workshops, Conferences, webinars, and other events to benefit the community.
-- 📌 I have interest in DevOps, DEI, Clound computing, Documentation, community and Open Source topics.
-- 👩🏽‍💻 I previously experienced some challenging positions i.e. Developer advocate @[Nirmata](https://github.com/nirmata), Technical writer @[API7.ai](https://github.com/api7) Researching @[CHAOSS](https://github.com/chaoss)
-- 🌱 I actively contributing to some awesome Open-Source Projects and organisations like [Layer5](https://github.com/layer5io), [TheGoodDocProject](https://gitlab.com/tgdp), [CHAOSS](https://github.com/chaoss) projects, and more.
-- I love cats🐈
+My interests include:
+- Developer Experience (DevEx)
+- AI Developer Tools
+- Platform Engineering
+- Kubernetes & Cloud Native
+- Open Source Strategy
+- Technical Education 
 
----
-# Featured Blog Posts 📘
+## Currently Building
+- [Stack Index](https://www.stackindex.io/) - An AI intelligence layer where engineers discover, compare, and monitor the tools that run their stack
+- [DevRel Hub](https://dev-rel-hub.vercel.app/) - A curated source of information for Developers Advocate and enthusiats building a career in DevRel
 
-<!-- BLOG-POST-LIST:START -->
-- [Starting Your Side Hustle? You don't have to deep dive with Kubernetes, Pipelines and Containers](https://medium.com/@Anita-ihuman/starting-your-side-hustle-6002f1e56288)
-- [Is Kubernetes Making DevOps Professionals Obsolete?](https://medium.com/@Anita-ihuman/is-kubernetes-making-devops-professionals-obsolete-e09f0dc070bb)
-- [Git Revert Explained: Safely Undoing Your Changes](https://www.cloudbees.com/blog/git-revert-explained)
-- [Open Source Influencing Space Programs: James Webb Space Telescope](https://sustainoss.org/blog/james-webb-space-telescope/)
-- [A beginner's guide to cloud-native open-source communities](https://www.notion.so/About-Me-85a224cc28a64ed8a346e14044d8bcd2)
-- [Microservice Service Discovery: API Gateway or Service Mesh?](https://blog.getambassador.io/microservice-service-discovery-api-gateway-or-service-mesh-77c468167025)
-- [NoOps Explained: How Does NoOps Compare with DevOps?](https://www.splunk.com/en_us/blog/learn/noops-vs-devops.html?301=/en_us/blog/devops/what-is-noops-and-is-it-the-natural-evolution-of-devops.html)
-- [The Beginners Intro to Containerized Platforms: Docker](https://movi.hashnode.dev/the-beginners-intro-to-containerized-platforms-docker-ckt9rvjdr0boa98s170rm7i6i)
-- [Introducing Container Orchestration Using Kubernetes](https://movi.hashnode.dev/introducing-container-orchestration-using-kubernetes-cktemz89j02llyds1fmcm8xz2)
-- [A Guide to React Router: Demo](https://movi.hashnode.dev/a-guide-to-react-router-demo-ckk13407306obqps1hso0ckb1)
-<!-- BLOG-POST-LIST:END -->
+## Previous Experience
+👩🏽‍💻 I previously experienced some challenging positions i.e., Developer Relations & Technical Education
+- Developer Advocate — [MetalBear](https://github.com/metalbear-co/mirrord)
+- Developer Advocate — [Nirmata](https://github.com/nirmata)
+- Technical Writer — [API7.ai](https://github.com/api7)
 
-## Lets Connect 🌎
-- Follow up on my Public Speaking on <a href="https://www.notion.so/anitaihuman/Speaking-Engagements-78ce1075e0404898acd725b7e315f978"> Speaker Deck</a>
-- 💬 I am open to discuss on  #opensource #DEI #Cloud, #DevOps, #Communitymanagement, #technicalwriting and anything you like... I'll try my best to help you.😊❤
----
-
- 
-
-## My GitHub Stats
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anita-ihuman&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anita-ihuman&theme=tokyonight" />
- <a href="https://twitter.com/Anita_ihuman"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=Anita_ihuman&layout=wide"  width="500"  alt="github-readme-twitter"></a>
-
-</p>
+🌱 I have also led and am actively contributing to some awesome Open-Source Projects and organizations like:
+- Research Contributor/Community Lead — [CHAOSS](https://github.com/chaoss)
+- Community Lead - [Layer5](https://github.com/layer5io)
+- Program Management - [OpenKids Africa](https://github.com/openkids-africa)
+- DISC Committee Member - (NumFocus)[https://github.com/numfocus/DISC-committee]
 
 ---
 
@@ -69,3 +55,45 @@ I am Anita Ihuman, Developer Advocate and technical writer.  I am an Open source
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" /> 
 <br />
+
+---
+
+# ✍🏽 Writing & Publications
+I write about Developer Experience, AI Engineering, Platform Engineering, Kubernetes, Cloud Native, Open Source, and Technical Leadership.
+
+<p>
+  <a href="https://medium.com/@Anita-ihuman">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+
+  <a href="https://dev.to/anita_ihuman">
+    <img alt="DEV Community" src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  </a>
+
+  <a href="https://movi.hashnode.dev">
+    <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.freecodecamp.org/news/author/YOUR_USERNAME/">
+    <img alt="freeCodeCamp" src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+  </a>
+</p>
+
+### Featured Blog Posts 📘
+<!-- BLOG-POST-LIST:START -->
+- [Using Trivy to Secure Your UpCloud Workloads: A DevSecOps Guide for Modern Infrastructure](https://upcloud.com/blog/trivy-secure-upcloud-workloads-devsecops-guide-modern-infrastructure/)
+- [Local or Cloud: Choosing the Right Dev Environment](https://thenewstack.io/local-or-cloud-choosing-the-right-dev-environment/)
+- [Starting Your Side Hustle? You don't have to deep dive with Kubernetes, Pipelines, and Containers](https://medium.com/@Anita-ihuman/starting-your-side-hustle-6002f1e56288)
+- [Is Kubernetes Making DevOps Professionals Obsolete?](https://medium.com/@Anita-ihuman/is-kubernetes-making-devops-professionals-obsolete-e09f0dc070bb)
+- [Git Revert Explained: Safely Undoing Your Changes](https://www.cloudbees.com/blog/git-revert-explained)
+- [Open Source Influencing Space Programs: James Webb Space Telescope](https://sustainoss.org/blog/james-webb-space-telescope/)
+- [Microservice Service Discovery: API Gateway or Service Mesh?](https://blog.getambassador.io/microservice-service-discovery-api-gateway-or-service-mesh-77c468167025)
+- [NoOps Explained: How Does NoOps Compare with DevOps?](https://www.splunk.com/en_us/blog/learn/noops-vs-devops.html?301=/en_us/blog/devops/what-is-noops-and-is-it-the-natural-evolution-of-devops.html)
+<!-- BLOG-POST-LIST:END -->
+
+## My GitHub Stats
+<p>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anita-ihuman&theme=tokyonight" />
+</p>
+
+
