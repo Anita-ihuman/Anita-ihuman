@@ -24,7 +24,7 @@ My interests include:
 
 ## Currently Building
 - [Stack Index](https://www.stackindex.io/) - An AI intelligence layer where engineers discover, compare, and monitor the tools that run their stack
-- [DevRel Hub](https://dev-rel-hub.vercel.app/) - A curated source of information for Developers Advocate and enthusiats building a career in DevRel
+- [DevRel Compass](https://dev-rel-hub.vercel.app/) - A curated source of information for Developers Advocate and enthusiasts building a career in DevRel
 
 ## Previous Experience
 👩🏽‍💻 I previously experienced some challenging positions i.e., Developer Relations & Technical Education
