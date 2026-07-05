@@ -11,7 +11,7 @@
 
 
 ## Hi, I'm Anita 👋🏽
-Senior Developer Advocate with 5+ years of experience helping engineering teams adopt cloud-native technologies through technical education, open source, developer experience, and community leadership.
+Senior Developer Advocate with 5+ years of experience helping engineering teams adopt software technologies through technical education, open source, developer experience, and community leadership.
 I build developer tools, write technical guides, create hands-on demos, and speak at conferences to help developers understand complex technologies.
 
 My interests include:
