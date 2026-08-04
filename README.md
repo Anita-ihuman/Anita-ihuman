@@ -90,10 +90,3 @@ I write about Developer Experience, AI Engineering, Platform Engineering, Kubern
 - [Microservice Service Discovery: API Gateway or Service Mesh?](https://blog.getambassador.io/microservice-service-discovery-api-gateway-or-service-mesh-77c468167025)
 - [NoOps Explained: How Does NoOps Compare with DevOps?](https://www.splunk.com/en_us/blog/learn/noops-vs-devops.html?301=/en_us/blog/devops/what-is-noops-and-is-it-the-natural-evolution-of-devops.html)
 <!-- BLOG-POST-LIST:END -->
-
-## My GitHub Stats
-<p>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anita-ihuman&theme=tokyonight" />
-</p>
-
-
